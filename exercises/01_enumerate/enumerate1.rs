@@ -1,5 +1,5 @@
 // TODO: Explain what a combinator is use enumerate as example: https://doc.rust-lang.org/stable/std/iter/trait.Iterator.html#method.enumerate
-// Explain pattern matching like `let (i, val) = (42, "bar");`
+// TODO: Explain pattern matching like `let (i, val) = (42, "bar");` or link to docs
 
 fn longest_word(vec: Vec<String>) -> usize {
     let longest = String::new();
