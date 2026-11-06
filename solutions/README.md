@@ -1,0 +1,1 @@
+Currently there are no solutions provided with the excercises. If you have a solution for a task feel free to submit a PR with it in this folder. The file name should match the excercise name and parent folder.

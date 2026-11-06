@@ -33,6 +33,7 @@ dir = "00_loops"
 # strict_clippy = false
 
 # A multi-line hint to be shown to users on request.
+# TODO: Add hints for excercises
 hint = """???"""
 
 [[exercises]]
@@ -58,4 +59,49 @@ hint = """???"""
 [[exercises]]
 name = "enumerate2"
 dir = "01_enumerate"
+hint = """???"""
+
+[[exercises]]
+name = "impl_iterator1"
+dir = "02_impl_iterator"
+hint = """???"""
+
+[[exercises]]
+name = "impl_iterator2"
+dir = "02_impl_iterator"
+hint = """???"""
+
+[[exercises]]
+name = "map1"
+dir = "03_map"
+hint = """???"""
+
+[[exercises]]
+name = "map2"
+dir = "03_map"
+hint = """???"""
+
+[[exercises]]
+name = "map3"
+dir = "03_map"
+hint = """???"""
+
+[[exercises]]
+name = "sum1"
+dir = "04_sum"
+hint = """???"""
+
+[[exercises]]
+name = "sum2"
+dir = "04_sum"
+hint = """???"""
+
+[[exercises]]
+name = "find1"
+dir = "05_find"
+hint = """???"""
+
+[[exercises]]
+name = "find2"
+dir = "05_find"
 hint = """???"""
