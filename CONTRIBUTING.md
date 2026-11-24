@@ -33,7 +33,7 @@ begin to make sure your work will not be conflicting with ours.
 
 ## Respect free software/open source licenses
 
-next next next is licensed very permissively (ISC-style license), for every contribution you
+next next next is licensed very permissively (MIT/Apache license), for every contribution you
 make, you have to ensure that it is either your original work, or a derived work from
 software that falls under a free software/open source license that allows its inclusion in
 our repository. In the latter case your contribution must have clear attributions so we can
