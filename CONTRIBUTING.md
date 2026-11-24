@@ -14,7 +14,10 @@ any surprising findings you ran into.
 
 ## Documentation
 
-You can provide feedback on the documentation, pointing out where information is missing or unclear. If you would like to add documentation, please create an issue and explain what you want to write.
+You can provide feedback on the documentation, pointing out where information is missing or
+unclear. If you would like to add small explanations to documentation, you can open a PR. If
+you want to create impactful changes to documentation, please create an issue and explain what
+you would like to write.
 
 ## Small contributions
 
